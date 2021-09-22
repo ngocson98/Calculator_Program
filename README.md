@@ -135,7 +135,7 @@ Once we get the result, we push it to the input field after clearing it.
             display.insert(0, "Error")
             
 ### Finish
-root.mainloop()
+      root.mainloop()
 ## Output
 ![calculator](https://user-images.githubusercontent.com/87347502/134390483-317ff7ee-a628-4cac-9191-29d7b81f1138.png)
 # Thank you!
